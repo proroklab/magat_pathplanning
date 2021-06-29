@@ -1,0 +1,12 @@
+experiments/
+scripts_IROS/.nfs*
+.idea/
+*.pyc
+.DS_Store
+data/
+utils/magent/build/
+utils/magent/data/
+Jupyter/
+Jupyter_OE_S/
+Jupyter_OE_S_v2/
+Jupyter_test/

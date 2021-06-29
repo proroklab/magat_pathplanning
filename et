@@ -1,0 +1,2661 @@
+[33mcommit 3b2568f4cf57d9588a9414555eded833f399d7dd[m[33m ([m[1;36mHEAD -> [m[1;32mhpc_branch[m[33m)[m
+Author: Kangyu Ji <kj339@login-e-2.data.cluster>
+Date:   Sat Oct 3 11:16:58 2020 +0100
+
+    commit
+
+[33mcommit e59c08eed8aafd93c24e4ee298f08bc0c641d346[m[33m ([m[1;31morigin/hpc_branch[m[33m)[m
+Merge: 99db692 75c46fa
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Oct 2 10:44:14 2020 +0100
+
+    Merge pull request #31 from QingbiaoLi/SelectedGNN
+    
+    Selected gnn
+
+[33mcommit 75c46fab049ca6be7d4de3b1593c3afe7fec2243[m[33m ([m[1;31morigin/SelectedGNN[m[33m)[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Oct 2 10:41:53 2020 +0100
+
+    Update
+
+[33mcommit b59ff675d920423fd6445fb7030a0b0453796fe4[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Oct 2 01:02:00 2020 +0100
+
+    Update
+
+[33mcommit 76d911e5c89d301ea1ed68776e24edecc09df2cb[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 04:06:32 2020 +0100
+
+    UPdate
+
+[33mcommit ae9c72f44046b55074b267e6813315c4af2b0325[m
+Merge: 1ec4d2a f1a851c
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 03:35:17 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit f1a851c572ec4f65ded8af6a7c24594327ab2a23[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 03:34:58 2020 +0100
+
+    UPdate
+
+[33mcommit 1ec4d2a840b3669c2181c98ee263a37a43d70967[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 03:31:40 2020 +0100
+
+    UPdate scripts
+
+[33mcommit 345532f1c6a55273f8e8058546cf80025160a68d[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 02:58:48 2020 +0100
+
+    Update
+
+[33mcommit 78079296378f3e7659bff67b94a77ca07dd0a783[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 02:42:16 2020 +0100
+
+    Update
+
+[33mcommit dc0a30449cd614d0a81379ea11b91d79af234c8f[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 02:37:51 2020 +0100
+
+    Update
+
+[33mcommit 21dff0c3513c82bee238e063468335f2e15cbddd[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 02:01:51 2020 +0100
+
+    UPdate
+
+[33mcommit bb878d74b327921cbea14217d008db3ba361dd6f[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 01:15:58 2020 +0100
+
+    Update plot results
+
+[33mcommit 8868abc24945f4d4a705e01fc0d0e4a9893f9651[m
+Merge: 778fb2f 278f8f8
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Sep 30 01:12:00 2020 +0100
+
+    Merge pull request #30 from QingbiaoLi/SelectedGNN_LIN
+    
+    update hist/errbar plot
+
+[33mcommit 778fb2f1c0b1beaf0d62476f05c196b5ed8b36ff[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 18:28:12 2020 +0100
+
+    Update scripts
+
+[33mcommit 8976a4a2d8087eae838df8b73b3be97ddeddefff[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 17:42:51 2020 +0100
+
+    Update
+
+[33mcommit e619bf70fdf9f4a1abbca10c645210c1b04b1095[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 16:56:00 2020 +0100
+
+    Update
+
+[33mcommit 278f8f8ae83b47cea1c5f903a1350cc83b3d99f4[m[33m ([m[1;31morigin/SelectedGNN_LIN[m[33m)[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Sep 29 23:47:16 2020 +0800
+
+    update hist/errbar plot
+
+[33mcommit 8e93f6dd9a554ce2eae26bfc0dc0575bae1c71ba[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 16:26:54 2020 +0100
+
+    Update
+
+[33mcommit 2026575c3799e59b7c6e7ab26cc24c17d685d4c6[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 15:17:52 2020 +0100
+
+    Update
+
+[33mcommit 99db692712c231aa0aa552778fd70001c41f6be0[m
+Merge: 18a27f9 fc1d6bf
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:17:04 2020 +0100
+
+    Merge pull request #29 from QingbiaoLi/SelectedGNN
+    
+    Selected gnn
+
+[33mcommit fc1d6bf7467fa1e0cc75259a44b7df16f8f41c40[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:15:47 2020 +0100
+
+    Update
+
+[33mcommit 253dcd41be9f861d4bf5d0f2003b6f8b1c9c974e[m
+Merge: e247a9b 61fab41
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:13:45 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+    
+    # Conflicts:
+    #       configs_fixedComR_hpc/dcpGAT_OE_Random.json
+    #       configs_fixedComR_hpc/dcpGAT_OE_Random_LG_EffectiveDensity.json
+    #       configs_fixedComR_hpc/dcp_OE_Random_LG_EffectiveDensity.json
+
+[33mcommit e247a9ba06eb238301c0b2567501d15e60d5c710[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:09:35 2020 +0100
+
+    Update
+
+[33mcommit 18a27f9dde82cc930985f9281b9b91bf247ecd52[m
+Merge: c24f4ef 61fab41
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:05:28 2020 +0100
+
+    Merge pull request #28 from QingbiaoLi/SelectedGNN
+    
+    Selected gnn
+
+[33mcommit 61fab41933b204d4cece42daec49a8fb7bdd156b[m
+Merge: aab4704 c24f4ef
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:04:25 2020 +0100
+
+    Merge branch 'hpc_branch' into SelectedGNN
+
+[33mcommit aab47048f4fa5358bd3103cc6ac5fa39a240fe74[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 11:02:00 2020 +0100
+
+    Update
+
+[33mcommit 4ade47c76a27d3d546f697685ef1aec55f40e73b[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 10:58:13 2020 +0100
+
+    Update
+
+[33mcommit 075fd097e5992b51d07c2a728330087718cdfd7c[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Sep 29 00:53:37 2020 +0100
+
+    Update
+
+[33mcommit 6369cf955ba6029bf0b9bbe58f15243181564bc8[m
+Merge: 4397671 81bfbaf
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sun Sep 27 16:22:30 2020 +0100
+
+    Merge pull request #27 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 81bfbaf4ad97c0011fdb3ec7e1ab09f02174e8af[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Sep 27 23:18:18 2020 +0800
+
+    re-update test checkpoint utils
+
+[33mcommit 3fa8cbc8bb789c39cc206a0ce12ca02c5a7f48b3[m
+Merge: b2ec01b 4397671
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Sep 27 23:16:00 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit c24f4efc42fb72b1ff7b730f42ca2ac37317f18b[m
+Merge: 50abde3 b2ec01b
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sun Sep 27 15:45:10 2020 +0100
+
+    Merge pull request #24 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 43976719550a171748b7a600a30b443e34531d05[m
+Merge: 880bb63 f63ab1e
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sun Sep 27 15:13:07 2020 +0100
+
+    Merge pull request #23 from QingbiaoLi/revert-22-SelectedGNN_LIN
+    
+    Revert "update checkpoint test utils"
+
+[33mcommit f63ab1e5ed12b6764e3d4a19c626f2a42dff6f1a[m
+Author: Qingbiao Li <cookielee92@gmail.com>
+Date:   Sun Sep 27 15:10:45 2020 +0100
+
+    Revert "update checkpoint test utils"
+
+[33mcommit 880bb63c79ce9dcd5e9ccf57729e6a313cb5cf98[m
+Merge: ac1b750 b2ec01b
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sun Sep 27 15:10:03 2020 +0100
+
+    Merge pull request #22 from QingbiaoLi/SelectedGNN_LIN
+    
+    update checkpoint test utils
+
+[33mcommit ac1b75039deca868888b70dd320afa01c2244542[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Sep 27 15:01:47 2020 +0100
+
+    Update
+
+[33mcommit b2ec01b266f25122c48dcd21e96d103f6813227b[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Sep 27 21:56:06 2020 +0800
+
+    update checkpoint test utils
+
+[33mcommit fe0ea3a5eb816480fdf643a4d1825826bcab293a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Sep 27 03:13:39 2020 +0100
+
+    update script
+
+[33mcommit 3c0209be4f6f51c9cb64b635669524f26f00a797[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Sep 26 23:50:38 2020 +0100
+
+    Update
+
+[33mcommit 3fa4001dca42e0971e2be547ad1bca260e9900e9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Sep 26 09:16:22 2020 +0100
+
+    Update
+
+[33mcommit 7890ae350edffb03005942c83b04173205a5b6ff[m
+Merge: b69d661 364505a
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Sep 25 14:37:00 2020 +0100
+
+    Merge pull request #21 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 364505a39e35e8728f52bd94ca798a6e2ff52e89[m
+Merge: bf77c85 b69d661
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Sep 25 20:58:59 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit bf77c8507a523fad8d490ac098f20ef58d23a9e0[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Sep 25 20:58:29 2020 +0800
+
+    fix casegen bug
+
+[33mcommit b69d6618333e537082f64c5d8110969a443c3c2e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Sep 25 13:55:43 2020 +0100
+
+    update
+
+[33mcommit 8463f822cda03ecdbf617f3bb84eb0ca1e8d8573[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Sep 25 09:35:20 2020 +0100
+
+    Update
+
+[33mcommit 50abde395c96f0c5bd0bb6281358c7fddc511031[m
+Merge: 4bf53d9 0ec652a
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Thu Sep 24 15:35:10 2020 +0100
+
+    Merge pull request #20 from QingbiaoLi/SelectedGNN
+    
+    Selected gnn
+
+[33mcommit 4bf53d9c47e871a0671bb98881c351e332362470[m
+Author: Kangyu Ji <kj339@login-e-2.data.cluster>
+Date:   Thu Sep 24 15:29:21 2020 +0100
+
+    Your Message
+
+[33mcommit 0ec652a01d86efc4fb888397097862a3ce2d3d7f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 15:28:42 2020 +0100
+
+    Update
+
+[33mcommit 8cd0d99d0aaf0ac771ada1b89639c115eb195e9e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 15:25:39 2020 +0100
+
+    Update
+
+[33mcommit e11fb2b6f64ad5d4f1072d217a54f6ce7457bf81[m
+Merge: 500ebd3 5b8dc76
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Sep 24 13:58:38 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 5b8dc761c84175d6b10e519a93c85b2664ee219c[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 04:39:26 2020 +0100
+
+    Update
+
+[33mcommit aeef168440053b8f870327695c98eb6a764f43db[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 00:23:47 2020 +0100
+
+    Update script
+
+[33mcommit 8c179221277267021c9382828950d383e1a72a04[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 00:14:30 2020 +0100
+
+    UPdate
+
+[33mcommit 03de4506b0940ab36637949ee8db1ec154c15a50[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 24 00:11:57 2020 +0100
+
+    Update
+
+[33mcommit b3b189ec978b726eef67774e9d790b0eaf7f48c1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 23:02:42 2020 +0100
+
+    Update with GPU id and load highest success rate in the record
+
+[33mcommit 55871234b788007e037b999d00329640d2d635ae[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 17:32:05 2020 +0100
+
+    update
+
+[33mcommit 945795aca11d8e953c5800cfd462f3628d6cd0df[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 15:37:33 2020 +0100
+
+    update
+
+[33mcommit f804362e8aca8e6017806f6b4508d24ccb8cc2a6[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 15:35:39 2020 +0100
+
+    Update
+
+[33mcommit 6d288b9230f8a5e7786dabbb1fd16a1f41ff71ae[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 15:28:31 2020 +0100
+
+    Update
+
+[33mcommit ed0045e014ae2d710770b532ac98d0aade4eaccf[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 11:34:32 2020 +0100
+
+    Update
+
+[33mcommit a67271d60e724dfe127c7d9dbf6d1862caf4abde[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 23 01:23:05 2020 +0100
+
+    Update with newCase Generator
+
+[33mcommit eabc4a77f475a364261e600ba881d1f8156a0710[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Sep 22 16:55:15 2020 +0800
+
+    update gpu id
+
+[33mcommit 500ebd3575fd8dccd0dd8f9bbcf043678161ac45[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Sep 22 16:50:01 2020 +0800
+
+    update memory dataloader
+
+[33mcommit eec637947e51e5e9879b4abfd5706f8fd51973b9[m
+Merge: 6c22321 7790fa8
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Sep 22 16:16:41 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 7790fa888744b2116d97126dc69c22bd36de109a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Sep 22 03:18:07 2020 +0100
+
+    Update with config HPC
+
+[33mcommit 03837345e8a9982976893f2d8addfd74c1d5aae0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Sep 22 02:49:58 2020 +0100
+
+    UPdate
+
+[33mcommit eb9d8ab67135cb7daed8f124f7bdad5f065aeacd[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Sep 22 02:33:47 2020 +0100
+
+    Update with Resneck_3block + MLP (1152->128)
+
+[33mcommit 5109fc77fbdc301f42233a7091a9fc46249d876b[m[33m ([m[1;32mSelectedGNN[m[33m)[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Sep 20 12:18:43 2020 +0100
+
+    Update
+
+[33mcommit b152b46459c05f4659d63bca26a943e4a5556aa8[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Sep 18 21:39:32 2020 +0100
+
+    Update
+
+[33mcommit 2371b1286ca369a479b3d697f61054e6bead7c5d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 17 18:33:12 2020 +0100
+
+    UPdate
+
+[33mcommit dd6e9f09303bd15cda39d498952dccb2952f0719[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 17 18:30:09 2020 +0100
+
+    UPdate
+
+[33mcommit 7ae7d64a109967ef506b3d72f82385e924cedb31[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 17 18:27:55 2020 +0100
+
+    Update random
+
+[33mcommit 1dd5e30b8d840b09cd274a4a360313dbc0f3646c[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Sep 17 02:27:26 2020 +0100
+
+    Update for dataset (random)
+
+[33mcommit 6c22321d9085331454f47624ec7b7d8167aaed18[m
+Merge: 328717b 59cebcf
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Sep 4 22:23:02 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 59cebcf73a24754af3be343dbd143db0a6c3d454[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 2 21:52:40 2020 +0100
+
+    Update setting up validset.
+
+[33mcommit 550ae755276659a99522843b392e6b8c66f575ed[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Sep 2 03:29:45 2020 +0100
+
+    Update scrips
+
+[33mcommit 328717bd39687ae4ca813b1fe6d9be95e94b6841[m
+Merge: 4d2df18 3ced8bf
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Aug 31 21:20:02 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 3ced8bfc87dd8abf04507d47d800fc89d8d1654b[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 17:23:42 2020 +0100
+
+    Update
+
+[33mcommit 2daaefe6b7f3dbfb07c7423ca78ec6d9547460d5[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 01:38:16 2020 +0100
+
+    Update
+
+[33mcommit 16183d2c7e2e813f3aa98cd9b50da2d30bacfbfe[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 00:35:25 2020 +0100
+
+    Update
+
+[33mcommit 5172286182ab023cb08b76d96eb081b0c4f45876[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 00:20:03 2020 +0100
+
+    update
+
+[33mcommit 76071fa5a95bddd3748a97799780fee7a9d5f182[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 00:12:07 2020 +0100
+
+    Update
+
+[33mcommit 222dfa649dbc51d5be2fa7419775ac0229c5c5dc[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 30 00:07:21 2020 +0100
+
+    Update test script
+
+[33mcommit 2f1a6f463f8e4543f013f913b54a21b8e132885f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 29 23:44:59 2020 +0100
+
+    Update experiment to do
+
+[33mcommit 57b120406fd430efa711e5b07ff7dc9b3339baf2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 29 19:07:10 2020 +0100
+
+    Merge Reset into CNN module and remove redundant code
+
+[33mcommit ca02fae84295947e797297663f218b0478fab926[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 29 17:46:23 2020 +0100
+
+    Merge Resnet into CNN module
+
+[33mcommit 9403a4d21cea2bf01770f65dd5681d3ad728e5f9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 29 01:31:36 2020 +0100
+
+    Update
+
+[33mcommit 43e4023a1b00d713fb34e909451ae5da48056736[m
+Merge: bbf4d39 044a65f
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sat Aug 29 01:21:52 2020 +0100
+
+    Merge pull request #19 from QingbiaoLi/qingbiao_tmp
+    
+    update
+
+[33mcommit 044a65ffb66ef009727d49235855dd0cad98cc40[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 29 01:17:53 2020 +0100
+
+    update
+
+[33mcommit bbf4d399cd9d56e48e7dea7310defe38e7601b9f[m
+Merge: 58cf1bc 4d2df18
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Aug 28 22:39:36 2020 +0100
+
+    Merge pull request #18 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 58cf1bc0f98f3e4ec8b1221a70d2f793aa865992[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 28 22:26:15 2020 +0100
+
+    update
+
+[33mcommit 4d2df18bc3f790a936171c5e83d8ac39b74b4155[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Aug 28 22:20:41 2020 +0800
+
+    fix bug
+
+[33mcommit a47a313eac0dc8804944e20f273e1d59a7924c69[m
+Merge: 5dee24c 07ee04b
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Aug 28 11:40:40 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 07ee04b1a8d1a94efb4e26c4d03a3afe792bbd9b[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 28 02:44:41 2020 +0100
+
+    Update experiment setup and inputfeature setup
+
+[33mcommit 2020e9aa2e011e35568e08b348403808d0fe4ddc[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 27 03:27:54 2020 +0100
+
+    UPDATE
+
+[33mcommit 531d77a4d3c4efbecd1b4a9d773c5475febb23e4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 27 03:04:29 2020 +0100
+
+    UPdate
+
+[33mcommit 0d71a95289f22eedd5f024da94dcaf03ab024fee[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 27 02:44:05 2020 +0100
+
+    Update
+
+[33mcommit 237374a5180bc4155e616ed445342f0cf96a2add[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 27 02:39:05 2020 +0100
+
+    Update
+
+[33mcommit 8a680f3049f2aab6822f7590878928be3e399fb2[m
+Merge: 9dddae6 5dee24c
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Thu Aug 27 02:21:29 2020 +0100
+
+    Merge pull request #17 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 5dee24c253facc19047e75d0408ad11527ac1dc4[m
+Merge: 48feacc 9dddae6
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Aug 27 09:16:43 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 48feacce16f1066b9dd56c5e0b503cd845283d07[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Aug 27 09:14:31 2020 +0800
+
+    update bottleneck to ResNet
+
+[33mcommit 9dddae62ed632015b8b2b13f6f116b5c5502033b[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 27 02:11:44 2020 +0100
+
+    Update
+
+[33mcommit 7a64d7a63b2e734c36a04257b291ff4ab2e03c96[m
+Merge: eb38e49 80ed2d9
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Aug 24 22:11:29 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 80ed2d968b8c6d4944b2f96179831f7acc8d0ea0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 20 18:30:05 2020 +0100
+
+    Update save mat file with epoch log
+
+[33mcommit eb38e49cf889854fbfd5c451bde08837214fe5e2[m
+Merge: d6efee9 cf14534
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Aug 20 23:21:35 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit cf1453449020212ab7c728216f3690a68a457223[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Aug 19 17:54:41 2020 +0100
+
+    Update with using softmax only at test on training set. Weight sampling at validset and test set.
+
+[33mcommit d9356a8a8a050a42c755e6c8cb23c73571f38779[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Aug 19 16:31:41 2020 +0100
+
+    Update test on validset
+
+[33mcommit 7ce8b49461e1136fe99bccb26ee299c9e2c7945d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 17 23:49:51 2020 +0100
+
+    Update
+
+[33mcommit e56ca757c300bd76361a23c385911984dfba4247[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 17 01:36:05 2020 +0100
+
+    es
+
+[33mcommit 05a99059ef9edec2cebd757bdd5c548ce0505232[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 17 01:34:24 2020 +0100
+
+    UPdate to test
+
+[33mcommit 6cb45ea044ea1f9b90ddad9400970adadbe3c3db[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 16 19:46:27 2020 +0100
+
+    Test
+
+[33mcommit 22fa13d465fe312c3b59e189568ab1c5113b683c[m
+Merge: 6de891c 4d05429
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 16 14:37:02 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+    
+    # Conflicts:
+    #       scripts_TSP/train_Fig123_Random_rho15_fixedComR_7.sh
+
+[33mcommit 6de891c7e1507b49f69fca63232b3cc68b894426[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 16 14:34:55 2020 +0100
+
+    mirror change
+
+[33mcommit 4d054295c0800f62fbdca4389d7955f6013ef130[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 16 14:34:03 2020 +0100
+
+    Update
+
+[33mcommit d6efee9a694ece9b3e02f186359041149b3b0eb8[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Aug 15 00:07:20 2020 +0800
+
+    update analysis table
+
+[33mcommit b356837fadf3f91807df24afb1b143f1a65a9cdf[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Aug 15 00:05:39 2020 +0800
+
+    update resnet code
+
+[33mcommit 861641beb53e503f7c0d32205bacb335982d562c[m
+Merge: 24407dd 5081200
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 14 01:31:44 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 5081200f22ad2ce819bbeaa1cf926558f0a28db0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 14 01:31:30 2020 +0100
+
+    Update
+
+[33mcommit 24407dd66c8b3d864a5766ffd5b4c7c14f86f425[m
+Merge: cc8f6e5 708ae3f
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 14 01:31:05 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 708ae3f63f1b51becd701ae9b63b91e134b90962[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 14 00:56:55 2020 +0100
+
+    Update
+
+[33mcommit cc8f6e5fadd994bee206197351944fa8bf29c322[m
+Merge: 45679b8 bdaa488
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 23:13:29 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit bdaa4886a642b4adce958859aa5f80a74ecd4467[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 23:13:01 2020 +0100
+
+    UPdate
+
+[33mcommit 45679b8ac877671a9de8f05605238c64e20c7793[m
+Merge: f17519c 158406d
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 21:56:59 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 158406d9e51c89689177e45a56bc44dbb1a08938[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 21:13:14 2020 +0100
+
+    Update for TSP fig1-3
+
+[33mcommit cc8649eb72187f0f04264da75c7f369e927a83e8[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 17:46:31 2020 +0100
+
+    Update vary dataset
+
+[33mcommit f17519c74c7f907adb3e70814681a0b3acb8110d[m
+Merge: 76e8057 c8d749c
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 17:03:44 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit c8d749ccc916cdd50127d490f00440071cbb2d59[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 13 17:02:08 2020 +0100
+
+    Update with vary ComR and FOV, vary validset.
+
+[33mcommit 3a933d94019a381335dea68d8acd6fed95d4eb83[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Aug 12 16:38:38 2020 +0100
+
+    Update
+
+[33mcommit 07802009f1dcf1e466bd4730df71785299cf24de[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 11 18:24:42 2020 +0100
+
+    aa
+
+[33mcommit 27fbe7c1f4c50c9356d0702bec256631be38aaf0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 11 18:22:01 2020 +0100
+
+    Update
+
+[33mcommit 27fa0d9d00cd9ec414de7ed88282a37d6a4c0460[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 11 17:41:20 2020 +0100
+
+    UPdate
+
+[33mcommit 9c1902a87bf20d2beb101aefe9e25f50721abe52[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 11 17:35:37 2020 +0100
+
+    Update for TSP table1
+
+[33mcommit baee55e90999cda38716e0004d737fe1a6a45c31[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 11 17:24:34 2020 +0100
+
+    Update testing
+
+[33mcommit 76e8057b779765e65dae87ac6c93fd5feba34462[m
+Merge: b94cd0d a97bee6
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 10 14:53:58 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit a97bee67a0370a0452f1f9dc5592a5f59ddd4007[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 10 14:53:34 2020 +0100
+
+    Update random density 15
+
+[33mcommit abe0c47b649cbe8a2412218a193c41655bb98af3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 10 14:44:46 2020 +0100
+
+    Update TSP
+
+[33mcommit b94cd0d5f0a324333a81e04896f5d179b9c83967[m
+Merge: fea29da 75e4674
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 10 03:08:18 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 75e46740cb9575eb737adcda616607b8ee2ed87a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 10 03:05:59 2020 +0100
+
+    Update to run
+
+[33mcommit f7dd324a6ee0d2d10f91c3d1a5b57f9016d6b3e3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 21:15:16 2020 +0100
+
+    Update for TSP
+
+[33mcommit fea29dac7bba9223ff1504be8f935910c5d6bcd2[m
+Merge: 51f878b c9305ca
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 16:33:16 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit c9305ca0d8afcfeeb63cf381ea58c5886c08f2f1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 16:32:50 2020 +0100
+
+    Update TSP
+
+[33mcommit 51f878bd049af0d665187c3e79b953e52af037ad[m
+Merge: c6fff5c 3386bae
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 06:28:42 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 3386bae5c3a36a6a07a4247d0de1ab1fdfe9913c[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 06:26:45 2020 +0100
+
+    Little Update
+
+[33mcommit 5ed191e98c3e03b543b3a0b7822254268ae7201e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 9 00:03:58 2020 +0100
+
+    Update with modified on input feature size
+
+[33mcommit f1c2d68adc0fe864b460c7d77c5b44be782c5114[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 22:57:21 2020 +0100
+
+    Update for VM
+
+[33mcommit 4ff2661a6d619f967d86fc3c2ad9a6b1b8bb0331[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 22:26:24 2020 +0100
+
+    Update for TSP
+
+[33mcommit c6fff5c866de0416546ec457aa4f4e13c16e45b9[m
+Merge: 957e8d3 9e86c1d
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 14:23:41 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 9e86c1da5285033d63bdda9a11243a1684e173ad[m
+Merge: 7fd2644 1933f47
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Sat Aug 8 14:10:24 2020 +0100
+
+    Merge pull request #16 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 7fd264447078c6f9fcf364cb485fa4ba3b2e35c8[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 14:07:41 2020 +0100
+
+    Update
+
+[33mcommit 957e8d3581d6a9ecf5f8626e7d90dc17a2df2538[m
+Merge: a8d0caf fd6b38d
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 13:28:56 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit fd6b38d4097c77bd7a4b56c606cbb6543cb43bec[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 8 13:16:45 2020 +0100
+
+    Little update on script
+
+[33mcommit 83cb823ceed490166f08632757aa523c67bdebfc[m
+Merge: 1933f47 074b1f7
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Aug 7 23:29:56 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 074b1f740ae0b0c864fe33a0722f5d4a3b077e2f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 7 16:27:52 2020 +0100
+
+    Update GRNN
+
+[33mcommit a8d0cafdd501cac812df1d37289e01a773a2875c[m
+Merge: 4f852a5 3982d8c
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 7 01:54:27 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 3982d8c2456015de9e0dc6e57200ce3f66850a49[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Aug 7 01:38:08 2020 +0100
+
+    Update RNN2GNN
+
+[33mcommit 1933f4764fb064c02d1a443f0b12ebc041dd5a4b[m
+Merge: 893cf97 95d6ddc
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Aug 6 23:16:31 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 893cf974647e4f2ad714bf9227308743783aa68b[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu Aug 6 23:16:03 2020 +0800
+
+    update real warehouse
+
+[33mcommit 4f852a5bd85138f0b94603fa09f9cd34ff43a3de[m
+Merge: 60c1baa 95d6ddc
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 01:13:36 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 95d6ddc90d2d3578138d081e70f33667977533c9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 01:13:10 2020 +0100
+
+    Update
+
+[33mcommit 60c1baa83c4f83288fd2653fe93405a6b9ff49c8[m
+Merge: 0a5af76 d70dd15
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:39:21 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit d70dd15054245a731d1874b35f1472213df36c9f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:38:56 2020 +0100
+
+    Update
+
+[33mcommit 0a5af76a73b6a0540899c94c4c9dd7fdf44533e0[m
+Merge: 2444b60 b0435dc
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:37:44 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit b0435dc5608d21377c3712b87209d22454bfe4f8[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:37:22 2020 +0100
+
+    Update
+
+[33mcommit 2444b606c6680ca9c39eb382ebed91e47b10bbd1[m
+Merge: 736955e acf4dba
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:33:39 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit acf4dba9da900bd7336c60f8125b1a2a439a6c98[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Aug 6 00:32:59 2020 +0100
+
+    Rewrite config with Maze/Random/Warehouse Folder.
+
+[33mcommit f8516890c4f6b005354ee3649c896259ff48c12f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Aug 4 02:37:32 2020 +0100
+
+    Update with RNN2GNN
+
+[33mcommit 9d7ec953e670c9122a88a9ae2bc2af42635cbbad[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Aug 3 00:54:25 2020 +0100
+
+    Update with RNN2GNN in progess
+
+[33mcommit 736955e9b73e50c680c468ec9fc7666fc1952d9b[m
+Merge: 5d5e41b cad871f
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 09:18:26 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit cad871f8f8894d80e62026000d4929b0e72b3442[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 09:17:55 2020 +0100
+
+    Update zero matrix log
+
+[33mcommit 5d5e41bcd3ab3541e46b89b2fa3c53d76c2b43f1[m
+Merge: 08ff4e8 5fbfbfc
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 09:03:59 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 5fbfbfcedb30d52ae3a8f809bcec4035b183db34[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 09:03:34 2020 +0100
+
+    Update with test code
+
+[33mcommit 08ff4e83f64a580e64938736b33816ff43613a57[m
+Merge: 6c20ca1 10dce66
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 08:55:20 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 10dce66416153409825b6403bf0334fe4ed5fec6[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Aug 2 08:53:29 2020 +0100
+
+    Update with filter out zero matrix
+
+[33mcommit c06c42d33d89fcf5388a17a7e74a1391549739bd[m
+Merge: 5a6b196 c90e8d3
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Aug 1 23:24:19 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 6c20ca16e4d97a6353212d0d0100096570e5b343[m
+Merge: 7728881 c90e8d3
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 1 07:51:00 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit c90e8d34ff194e70b2a8f6ca77b113d116b1bdd6[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 1 07:48:27 2020 +0100
+
+    Update a little
+
+[33mcommit 7728881caf8058e055a7392ad7ccaa9940d442ff[m
+Merge: 520a6cc 5d0c5d2
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 1 07:44:17 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 5d0c5d209af13dfb273e7205255147e3e3a91a0e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Aug 1 07:43:53 2020 +0100
+
+    Little update
+
+[33mcommit 520a6ccd3d407e5a75020ea6944ab99df6fdaa0c[m
+Merge: 6c205d8 30c4897
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 31 08:04:43 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 30c4897f960780104507ceaf6264ea17aaa6f1c0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 31 08:04:24 2020 +0100
+
+    update
+
+[33mcommit 6c205d8f69706ad7bb075a71d2af09b9fa4758e3[m
+Merge: 1cca5d6 f3548c5
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 31 07:57:19 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit f3548c55496d241b4570d9f01aff1becf582cfa9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 31 07:56:51 2020 +0100
+
+    Update
+
+[33mcommit 7e5523b42bb26d98aaa16d7980bc455c2e1134eb[m
+Merge: 1cbfd10 5a6b196
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Jul 29 16:39:29 2020 +0100
+
+    Merge pull request #15 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 1cbfd102ce68c8ca8482b182010b855bb3edf304[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 29 15:48:19 2020 +0100
+
+    Little update of scripts
+
+[33mcommit 5a6b196d621e67bccfad9c53b30411a2b5f2d8ab[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jul 29 22:41:57 2020 +0800
+
+    test graph property
+
+[33mcommit 1cca5d6b5215563008c3e69e2e80c68cdf586e36[m
+Merge: c0662b5 5c1c72d
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 10:28:52 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 5c1c72d2c4af5be091557419ed85e5829e821fe3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 10:28:26 2020 +0100
+
+    comment
+
+[33mcommit c0662b553543f95fbd15b08b443fc30551facbea[m
+Merge: 46fac94 b613146
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 10:20:52 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit b613146979d5d54e843a27b05c9d96a6a97c3b00[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 10:20:18 2020 +0100
+
+    Update to run
+
+[33mcommit d7b7a5046a47fe18a38b1120ffdb69b0d3aee13c[m
+Merge: 1b6cadc 3950dc4
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Jul 28 12:58:55 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 3950dc4ebd82b7f4cd0cca4792b158567cf39c4a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 02:40:19 2020 +0100
+
+    Update
+
+[33mcommit 689a50c2cb3321ba9d40be4902a36ec34600fb74[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 28 00:39:00 2020 +0100
+
+    Update with experiment to re-test run and retrain for fixed ComR 7
+
+[33mcommit ac60c69aef55e62ad734e4b543ae11cc219600d0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 27 00:53:17 2020 +0100
+
+    Update symnorm
+
+[33mcommit a233472449f585f76d0345f4466cc0271b928004[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 27 00:07:49 2020 +0100
+
+    update with resnet module
+
+[33mcommit b9f225c38d1754d2a6c865ec36984c0fa98a07d2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 04:51:45 2020 +0100
+
+    Update bug in get GSO in new simulator
+
+[33mcommit b89c5a4119af1726536301b24556594face2b9d5[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 03:02:33 2020 +0100
+
+    Little update
+
+[33mcommit 8167121684a3595500731b1f15f2965c233e1d0e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 03:01:01 2020 +0100
+
+    Update experiment to run for fixed ComR
+
+[33mcommit 04de3cc3eccfbc365181a249659299cf64da9d13[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 02:53:51 2020 +0100
+
+    Update fixed CommR datatransformer in onlinexpert
+
+[33mcommit 75df3caa722b6526aaa76421f071c97c16d3a955[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 02:29:18 2020 +0100
+
+    Update fixed Communication Radius, connectivity.
+
+[33mcommit aba38b42071bd20247f3301b71c847a47d776fab[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 26 02:23:28 2020 +0100
+
+    Update fixed ComR connectivity
+
+[33mcommit 46fac945a8e26e77103b16b409c789119b61d49f[m
+Merge: b0f5234 86bfc16
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 14:17:10 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 86bfc16afe2e48ccbbcd1df284c89df6a8c19ad4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 14:16:31 2020 +0100
+
+    Update 28x28 10 robots
+
+[33mcommit b0f5234edc32918496b726f624bfa98dea1e9c60[m
+Merge: 1e86c9c a829acb
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 10:46:45 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit a829acb112442e61c071944ccb0fc7391bc262e1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 10:45:50 2020 +0100
+
+    Update for gen test on random
+
+[33mcommit 8c948cc5d4790c53df5883bb9da6c86f1afff950[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 01:21:10 2020 +0100
+
+    Fixed bug in multi-thread at multi-GPU, and GRNN bug at inference stage
+
+[33mcommit f9ae354e581819aebc764f21a233169f25d6e7f3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 01:17:18 2020 +0100
+
+    Update GRNN
+
+[33mcommit 54b2d2c3efc28b52bd327ac15d23a8d05ce40413[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 01:03:08 2020 +0100
+
+    Bug at GRNN
+
+[33mcommit d05a5a21b29e264f2b2e5c4474faa95736e2befa[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:47:44 2020 +0100
+
+    check bug fixed
+
+[33mcommit 6e7e1d889fd98d6f7d97c485de8aba804a10898d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:41:40 2020 +0100
+
+    fix3
+
+[33mcommit 11aab03f1d844a6cfd2929b3edc6eb0ca6e29dd5[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:37:31 2020 +0100
+
+    fix3
+
+[33mcommit 64098d3fa80d4fc45908e7b444add0e37733ce31[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:36:13 2020 +0100
+
+    fix2
+
+[33mcommit c6d11b748eedff3c35c4dd1a8fea191bd4927249[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:35:01 2020 +0100
+
+    fixed 1
+
+[33mcommit b143545518918d6a79e39419255e12a90b99f5b9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:32:11 2020 +0100
+
+    try9
+
+[33mcommit 06425696fbc80a1fc36a5a830fee2459d7627c04[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:29:06 2020 +0100
+
+    try7
+
+[33mcommit fcdf292fc2bb4bf5e07da5a8a54585e33ab80f3f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:25:06 2020 +0100
+
+    try 6
+
+[33mcommit 13e45b92fe516b51c2ee96ce035872150a8c2364[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:19:11 2020 +0100
+
+    try6
+
+[33mcommit 404a280df93fe6eac777e8513002f49c749995ce[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:14:02 2020 +0100
+
+    try5
+
+[33mcommit 0e4b10bb8cbf6fca67e91ff0c847803ab4a3a674[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:06:01 2020 +0100
+
+    TRY4
+
+[33mcommit 53995f4a1df725c4bdc5876f421c021a539a0e58[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 25 00:02:04 2020 +0100
+
+    try3
+
+[33mcommit 21b3cb79d6781e1a60876de7a9b37032c49182b5[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 23:58:17 2020 +0100
+
+    try2
+
+[33mcommit a46cfcafacb7015929dffbe30c34d6bee2068137[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 23:55:46 2020 +0100
+
+    try1
+
+[33mcommit 8dfb2037040bf00d2a1f02b7d32972073e1935e3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 23:38:28 2020 +0100
+
+    Update for debug
+
+[33mcommit 1e86c9c58ea8fb028cb916612714eb92d8573f6b[m
+Merge: 0107d08 02e1fff
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 15:46:44 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 02e1ffff0045bdfba062a452eb17ab6f972123ce[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 15:46:22 2020 +0100
+
+    Update experiment to run
+
+[33mcommit 1b6cadcfe43137847d34481c327417770c45e077[m
+Merge: 3738cb3 431121d
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Jul 24 13:31:48 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 0107d08174ba263b674913f9c501c78f09e3e210[m
+Merge: 4947390 431121d
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 01:48:45 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 431121d1d82f840aac57342d2fda439c91ed86e2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 01:47:58 2020 +0100
+
+    Update experiment to run
+
+[33mcommit b080e176ac21cb92ca3b79ab5b36855c4c98935e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 24 01:21:03 2020 +0100
+
+    Update GRNN with new dataloader
+
+[33mcommit 494739073bab6fcf44971f1731e0707fc533397b[m
+Merge: 98077e7 87c23f9
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 23 14:48:38 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 87c23f9ed93c18a0dbb34d4c7bf71b4d411b0bd0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 23 14:45:13 2020 +0100
+
+    Update load function
+
+[33mcommit 433f02459792468bf5bc6fae5d0e56116fb69b9c[m
+Merge: 791e88e 3738cb3
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Thu Jul 23 14:24:03 2020 +0100
+
+    Merge pull request #14 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 791e88e02080a5a45750adfe8993da7d8aa6ed5b[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 23 14:19:59 2020 +0100
+
+    Update before merge
+
+[33mcommit 98077e7d6c054f74d756a3f5b104da1805c336eb[m
+Merge: 8e9277c a8f78db
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 23:47:04 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit a8f78dbef177e4ace14913951f3eb6e9d51169c4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 23:46:43 2020 +0100
+
+    Update tag
+
+[33mcommit efd80d0564a9e87b7996459e0020a59af506d479[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 23:44:44 2020 +0100
+
+    Update generalization test config
+
+[33mcommit 8e9277c648201f521d8f8b36f0fb0a6f0e48bbbc[m
+Merge: 3c4d71a 2e53f46
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 23:18:04 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 2e53f4688e0b651dec9bbdd4321a8abc98d833f3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 23:17:45 2020 +0100
+
+    Update for test
+
+[33mcommit 3738cb3c891bd9b20cafc310c02143407f6e1ebf[m
+Merge: c6afdcc 45a6ae6
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jul 22 10:17:31 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit c6afdcc0c9ddda217fbbe66e39041b61b1bde920[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jul 22 10:11:58 2020 +0800
+
+    update LSTM
+
+[33mcommit 45a6ae6d8128f04e77a4f0fb866933da022e985d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 02:15:46 2020 +0100
+
+    Update SeqRNN
+
+[33mcommit 3c4d71a9fb84f8734d3f7c42e3b95c252c058b63[m
+Merge: fa671bb d5b7656
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 00:20:14 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit d5b7656e091a291aafda89c29ecf9ba32c0e8027[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 00:19:50 2020 +0100
+
+    Update LSTM
+
+[33mcommit 97b1427d7bc19c3e5a1ddc5c8d60ae44f0ac2506[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 22 00:16:39 2020 +0100
+
+    Update SeqGAT_LSTM
+
+[33mcommit fa671bbeffa40b4339b8ccab16c1ee4502a1897c[m
+Merge: 90da134 18c8b8f
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 22:19:36 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 18c8b8fc3ddace2e7b4ce4574f49935117caf6cd[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 22:17:46 2020 +0100
+
+    Update seqRNN dataloader (remaining some bugs) and generalization test loop.
+
+[33mcommit 438bb16319d35d289b1db1637f4b6d04c7747d2d[m
+Merge: 1cfb5b5 46c9eef
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Jul 21 20:24:14 2020 +0100
+
+    Merge pull request #13 from QingbiaoLi/SelectedGNN_LIN
+    
+    update Seqdataloader
+
+[33mcommit 1cfb5b5928a2532b859fd9cf47c85a158dd145fb[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 15:43:32 2020 +0100
+
+    Update main
+
+[33mcommit 93f659656e4fca8d07f1ffb4ccdc6f47c9cff842[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 02:22:37 2020 +0100
+
+    Update GNN
+
+[33mcommit 35ae5aa60648ae63b35983689259ee7f2dcec551[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 01:35:31 2020 +0100
+
+    Update dilation version
+
+[33mcommit 9b42654df67901957177f32c03a85ef5ce670bf4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 01:18:31 2020 +0100
+
+    Update GNN without online expert
+
+[33mcommit c79bb67db99f5e42270a02235e9ce0e5b5328372[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 21 00:26:09 2020 +0100
+
+    Update function to start generate solution of ECBS from specific ID map
+
+[33mcommit 90da1348c53009d5a5f3850e286978cf52e2f5b5[m
+Merge: 9f1feb8 ad74954
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 23:52:58 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit ad74954049d4eb22e65796d142f7a7b6a7803b81[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 23:52:31 2020 +0100
+
+    Update dilated CNN
+
+[33mcommit dbeb3c31594afbf1109148a89d6e3f1d9af96cc1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 23:44:58 2020 +0100
+
+    Update dilation image change
+
+[33mcommit 9f1feb8e15d9b8b6f325aaa9ac89774ac0eb7ecb[m
+Merge: d79239a 2352e7c
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 23:34:16 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 2352e7cafe9e708192f1a4e20e453161a1dd6c76[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 23:33:45 2020 +0100
+
+    Update the bug in loss interval
+
+[33mcommit 596a8812e178b085222825030c3087e9ef4343fb[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 17:56:07 2020 +0100
+
+    Update loss interval
+
+[33mcommit 26163ca3f83099680770e1719005eea302c4d5a9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 15:34:00 2020 +0100
+
+    Update
+
+[33mcommit 46c9eefdfee76150f2788ceb42da9bb4f76409db[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Jul 20 22:28:12 2020 +0800
+
+    update dataloader
+
+[33mcommit 3f7a159fe915a1b5dbf60d3cdb125bfa80a43a98[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 20 00:08:41 2020 +0100
+
+    Update bash to generate different dataset
+
+[33mcommit e917bf60d4f07ed23988f1da5a15b4cb9721d59f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 19 23:43:49 2020 +0100
+
+    fix little bug in generating cases for random map
+
+[33mcommit a47ba76682c8973b5375a71283d5dd29f89b7d45[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 19 23:15:17 2020 +0100
+
+    Get ready for atrous CNN and GNN+GAT
+
+[33mcommit 35c153aed43758065c8ea7222e7cd260257d6049[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 19 00:04:41 2020 +0100
+
+    Update test generalization list
+
+[33mcommit b976f5c4f4d4a9a6c95ff3d1664a310de40773cf[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 21:17:50 2020 +0100
+
+    Update with log loss interval default record loss every 100 interation for GNN and every 10 interation for RNN
+
+[33mcommit 0657556ded7bca08c2297d77ba3dc23d37ac637e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 20:58:33 2020 +0100
+
+    Update test generalization a list and loss interval
+
+[33mcommit f259e66fc5719ecbf3069cc88d432252dd64c560[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 14:57:36 2020 +0100
+
+    Update testing info
+
+[33mcommit d79239a65a89c935d0dc24c56090765511ab829c[m
+Merge: d6d2377 25a43e5
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 10:28:50 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit d6d23777129d21833fa687cae17dd5521d54c04d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 10:28:27 2020 +0100
+
+    remove typo in SeqDataloader
+
+[33mcommit 25a43e527877ac454364f8c3df8f3831cd863c78[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 18 10:27:21 2020 +0100
+
+    Update
+
+[33mcommit 87efadb63fbe77b47d1525b273904cba8b882323[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 17 16:05:09 2020 +0100
+
+    remove the attention threshold over distGSO
+
+[33mcommit 23503b2d2c05b582e1d9729115d9a5acd419392b[m
+Merge: 9558a78 a7c88cf
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 17 12:10:30 2020 +0100
+
+    Update by removing conficts
+
+[33mcommit 9558a784372e4e870ffce1edbef93a326ec51af9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 17 12:03:11 2020 +0100
+
+    Little update
+
+[33mcommit a7c88cf1897ab77ef51c3fc09524a6c351cc4bbe[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Thu Jul 16 13:44:58 2020 +0100
+
+    Update GAT using seqLoader
+
+[33mcommit f8ee2550e2a442183b4398c5cf5657995f0ca1a2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 16 13:16:23 2020 +0100
+
+    Add a GAT with Seq dataloader
+
+[33mcommit bb636c44937f7619c0f7f2542bc0f5ac6ca1e3bd[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 16 00:41:56 2020 +0100
+
+    Update the project with BottleNeck skip connection
+
+[33mcommit 5abb8a76ce21402299dd6beb92be408cf7daf735[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 16 00:35:42 2020 +0100
+
+    Update with BottleNet GNN
+
+[33mcommit 726815daa38d29ab774f32540a8061b4ce9340bb[m
+Merge: 0bee5e4 6184bf2
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Jul 15 23:31:28 2020 +0100
+
+    Merge pull request #12 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 0bee5e463ccf3e7679e814f5c15b56bb5a1c0f76[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 15 23:24:30 2020 +0100
+
+    Update key and Query, and Similarity function
+
+[33mcommit 22ca3a4885cee204a1b66ce9e9a92247ce1052c3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 15 23:06:07 2020 +0100
+
+    Update with test code
+
+[33mcommit 6184bf2acd0d53b8814fb6537c581276079aaba8[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Jul 14 21:17:05 2020 +0800
+
+    LSTM ersion
+
+[33mcommit 2ae96e9a805896539280f33a6dd8f78c814c7eba[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 14 03:45:04 2020 +0100
+
+    Little bug
+
+[33mcommit 8c16a0dff3a528ed7c6c91e8354aa087b1938cda[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Jul 14 10:14:31 2020 +0800
+
+    add random map generation
+
+[33mcommit 9a9a53e39053079ac50f97a626e2f19b5ff9f632[m
+Merge: 5bad9b3 3b199f7
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Jul 14 10:14:13 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 3b199f7460a30bdebeaa9e6b37b109218d5504d3[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 14 03:11:31 2020 +0100
+
+    Fixed weird bug in GRNN
+
+[33mcommit 5bad9b3a6063ac791796b1ec68e2af8b5d33dd6f[m
+Merge: 8c22538 d9e2b00
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue Jul 14 09:28:13 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit d9e2b0033dfbe69c50e1f1ce8260640e9330d42d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 14 01:33:12 2020 +0100
+
+    Update GRNN
+
+[33mcommit bc6e9bb1cac520110feb74595d10377309883bcc[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 14 01:20:41 2020 +0100
+
+    Initial push for GRNN
+
+[33mcommit 8c22538c21f0cb949cdeea28505bac6b2c385dc6[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Jul 13 22:29:15 2020 +0800
+
+    update warehouse map generator
+
+[33mcommit 18068d7fed03c3706618cac9dcc19e6626a322fd[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 13 12:22:11 2020 +0100
+
+    Only keep GSO_mode instead GNN GSO and GAT GSO mode
+
+[33mcommit 5f076888f5f065996b4dd2e844d811a3be10a117[m
+Merge: f593638 0e3f870
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 13 10:22:08 2020 +0100
+
+    Merge branch 'SelectedGNN' of github.com:QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit f59363865f2a94c77098370ed659402aa7072546[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jul 13 10:20:00 2020 +0100
+
+    Minor changes in data generation bash file
+
+[33mcommit 0e3f8705efda21c2f7029bb3a81f3ad450477a8d[m
+Merge: ef66b56 987d9de
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jul 13 10:18:36 2020 +0100
+
+    Merge pull request #11 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 987d9de64ff19be2617874f387453725410a9345[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Jul 13 16:55:33 2020 +0800
+
+    update RNN files
+
+[33mcommit 4991db51911244f93fe57bcb3f343168ffbee7bf[m
+Merge: 5bc8e57 ef66b56
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 11 18:13:26 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 5bc8e5705dbe04bb2483353eac6eb8d1fd320fa4[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 11 18:04:16 2020 +0800
+
+    update file
+
+[33mcommit 47b518dc4ed8328a7204e16ed3b0261756af6861[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 11 18:03:23 2020 +0800
+
+    update before merge
+
+[33mcommit ef66b569ce107266a7eda8df78509616b6b4d280[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 11 10:04:38 2020 +0100
+
+    Update
+
+[33mcommit d842a8534d7804fedf2a7d37b69b3dac46abcc90[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jul 11 09:53:58 2020 +0100
+
+    Update tag for movie generator
+
+[33mcommit 9dd4cc01df74c80d501daf26c318df9f0ab7066f[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 11 09:29:36 2020 +0800
+
+    save current process
+
+[33mcommit 67772def787fc5b86fd169141705865101ef7ba0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 17:51:05 2020 +0100
+
+    update tag
+
+[33mcommit 6c8a54b5e40bd3e24f6d0fa3d8a76b28306af638[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 17:31:45 2020 +0100
+
+    Update experiment tag
+
+[33mcommit 7c7acea375374ddd7845d38ce7b41a604c4b82ab[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 16:23:42 2020 +0100
+
+    Update for return attentionGSO Testing
+
+[33mcommit 72c76c8d7f54726b00f85c50f05b3c44b7ca5f0a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 15:13:47 2020 +0100
+
+    Update aij detach()
+
+[33mcommit 3602e7c72917a42a0335a2360a788a591f5de107[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 14:57:16 2020 +0100
+
+    Fix bug for attentionMode
+
+[33mcommit f42ca6806224c9337e85311be6e2dc84827267b7[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 14:36:37 2020 +0100
+
+    Update experiment tag
+
+[33mcommit 2b917c58b6e9c025db1f411ba88fb304cc4b4a5d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 14:31:25 2020 +0100
+
+    Update tag for GSO_mode(distGSO, distGSO_one, Full_GSO), and return Attention GSO tag.
+
+[33mcommit 87728641179d2613d1e232ea7a659fc2d7dfe832[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 11:56:00 2020 +0100
+
+    Fix bug at key and query
+
+[33mcommit 7f689a270422f2b8ea980ee362e029c1b0212424[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jul 9 01:00:44 2020 +0100
+
+    Implement KeyQuery Attention GAT
+
+[33mcommit 48e002d56f0d17d68602b820908cc7767b0eb1da[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 8 01:05:06 2020 +0100
+
+    Add tag to switch distGSO - GSO all one;
+    Add dualHead_GAT consider similarity and dissimilarity
+
+[33mcommit f6685170d0fd114090cc246032100c6b70ad4ac1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jul 7 15:04:34 2020 +0100
+
+    Minor update for the tag for fully connected or distGSO
+
+[33mcommit 340c430fc95c48f3f28bce624c9a02e4ec14d867[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jul 6 16:41:08 2020 +0100
+
+    Update tag for old/new sim, batch/no_batch, mulit-thead
+
+[33mcommit 762c7b5c0c985d709fe60cb574ef6eeabf532b49[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Jul 6 23:38:47 2020 +0800
+
+    update code in dcpOE GNN
+
+[33mcommit d37def0ee747f140111f8ca9b16c1b06a71c109f[m
+Merge: 8d966df faad91d
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jul 6 11:50:12 2020 +0100
+
+    Merge pull request #10 from QingbiaoLi/SelectedGNN_LIN
+    
+    fix OE bug
+
+[33mcommit faad91deb8a0363915ca96937de2e23eb0a1bd4b[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Mon Jul 6 18:31:58 2020 +0800
+
+    fix OE bug
+
+[33mcommit 8d966df56b68c30b93123ec1c2a4e0ea08da926e[m
+Merge: be3cc36 f03d4c2
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jul 6 02:26:09 2020 +0100
+
+    Merge pull request #9 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit f03d4c25d828f5203324eb1228931276d619b0cf[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jul 5 20:16:33 2020 +0800
+
+    fix bugs
+
+[33mcommit 7844a739ad335e83f8ccaafb58b2d77e243ba8e3[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jul 5 18:14:48 2020 +0800
+
+    save checkpoint
+
+[33mcommit 6770420e0174ab1aa3ac51ec61b8be7bae51f731[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jul 5 18:12:44 2020 +0800
+
+    fix tag error
+
+[33mcommit a3c877169b3d0ece95d6a566af051b28e9b26ada[m
+Merge: fe30a9e be3cc36
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jul 5 16:20:08 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit fe30a9ef7db5371bf60cc734f8b76d3ed5404b0a[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jul 5 16:20:01 2020 +0800
+
+    save graphML
+
+[33mcommit be3cc363e49de1fc794346ecd83dd180cfe6fab9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 5 08:50:50 2020 +0100
+
+    Update experiemnt script
+
+[33mcommit 015d6f84f82451f8dfa32d5abf4769c90cad3fd7[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Jul 5 08:38:35 2020 +0100
+
+    Add a experiemtental tag to switch batch/no Batch, old/new simualtor
+
+[33mcommit bf65183b93036df121c2a529b1a6980368e905b7[m
+Merge: 88e89cf 040aba2
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 4 01:50:57 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 040aba2a249b69dace7d8066de34de6f10b9d5e9[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 3 18:48:53 2020 +0100
+
+    Update a tag on NewSim
+
+[33mcommit 88e89cf57d3e84d28a82b6ca33adcc048ea9d2bc[m
+Merge: 02d49bc 74c47d3
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 4 01:11:41 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 74c47d3ad6b0cd5da71a6f9b22bad6429b5bac7d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 3 18:10:52 2020 +0100
+
+    Retrack tag version
+
+[33mcommit 02d49bc422ee971f2c925f1722bcea3e2d71c129[m
+Merge: 09546a9 74b0bd2
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 4 00:53:22 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 74b0bd258e0e3d4bfaabab51b3c940ac38f05e25[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 3 17:50:38 2020 +0100
+
+    Update tag
+
+[33mcommit 09546a920a17a8ee99c99a857b9ac78a8e7ebeb1[m
+Merge: 7fce704 57b9030
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jul 4 00:41:38 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 57b9030434612072120c556f8ee16f9e5060d02f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jul 3 15:57:52 2020 +0100
+
+    Add tag to switch batch or batch*num_agent
+
+[33mcommit 7fce704dd18b08adb6c15af4d8281974610c1d92[m
+Merge: 6c47dd4 920867c
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Jul 3 18:27:39 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit 920867c9d9d79dee55b53d7a1cd86356f38dd7e6[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Jul 1 23:00:03 2020 +0100
+
+    Update with some scheduled experiment
+
+[33mcommit e93031762dd44f4775b147d34a0cd91dd7b0c239[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Jul 1 22:17:15 2020 +0100
+
+    Update the framework with option between single and multi-thead
+
+[33mcommit 8e1fa973609fe3b0d228607498ba2e5e183e0809[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 1 16:02:46 2020 +0100
+
+    Update changes about movie with attention weight
+
+[33mcommit e3186d95c90b14282437d0c0b19b5aa7926ab674[m
+Merge: 442d184 8d669ee
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 1 03:26:41 2020 +0100
+
+    Update movie with attentionweight
+
+[33mcommit 6c47dd4b66765e7a045b2ac0090f4e76ad60ac4e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jul 1 01:28:30 2020 +0100
+
+    First version of attention Moive
+
+[33mcommit 8d669eeb9c2167efd4e1655c7683a66108bfee95[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jun 29 16:46:19 2020 +0100
+
+    remove redundant code.
+
+[33mcommit 4338a594f05bc443e64fa9d686ac55b6e8c90d6f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jun 29 16:36:12 2020 +0100
+
+    Update GNN & GAT with dropout
+
+[33mcommit 5f8a3ebdb7e7b92348d3297908330103e551b8f8[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jun 29 13:26:38 2020 +0100
+
+    Remove extra relu after GAT
+
+[33mcommit 8cb6c373a041d5bed995b53b2a1e7381390010c4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jun 27 21:47:27 2020 +0100
+
+    Update GATmodel and simulator to return attentionGSO
+
+[33mcommit 55203a40aef152d85ac8eacc3959b1bc0c59cc2c[m
+Merge: e354217 0be1308
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Jun 26 20:20:50 2020 +0100
+
+    Merge pull request #7 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit e3542177f9b7a7958bdcf045c8f8bcc717a05f3d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri Jun 26 17:44:54 2020 +0100
+
+    Update GNN
+
+[33mcommit 0be13086629fde804f7753769c96ffcca9e7318d[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sat Jun 27 00:18:30 2020 +0800
+
+    NEW ATTENTION MECH
+
+[33mcommit 2c4b606431f23670cb5038da42c8fd00b7b62bf0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 25 02:42:07 2020 +0100
+
+    update GAT
+
+[33mcommit 9cc3e258bf5de3cea9314c70469d7f09e4abe0be[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jun 24 23:40:30 2020 +0800
+
+    fix bug of GSO
+
+[33mcommit 74977b882229a51abe43dba34cc616547c2dbf42[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Jun 19 23:57:28 2020 +0800
+
+    fix load GNN
+
+[33mcommit 2ab50f3f0f5615c9ac4d7da6541124e79023a5b8[m
+Merge: 70a96f1 ad457b9
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Fri Jun 19 08:08:50 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN_LIN
+
+[33mcommit ad457b9eb5b9a4a4d58e0339663e34c55558f71d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 18 23:45:38 2020 +0100
+
+    Update with load failure cases from pretrained model
+
+[33mcommit e17061b0fd4c1a7690171e20749a15444fcff618[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 18 18:40:31 2020 +0100
+
+    update pretrained
+
+[33mcommit 827824f2d4374afc2b4e0af05c1b11eb69f445b2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 18 18:10:21 2020 +0100
+
+    Update configs
+
+[33mcommit b49769927f7811e2bfe7ef7a5a13051a0440087d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 18 17:41:59 2020 +0100
+
+    Update on load pretrained model into GNN or GAT
+
+[33mcommit 57ba6c41e7f36b047227d992ee408a182b0008d2[m
+Merge: d5f10c0 70a96f1
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Wed Jun 17 16:47:58 2020 +0100
+
+    Merge pull request #6 from QingbiaoLi/SelectedGNN_LIN
+    
+    Selected gnn lin
+
+[33mcommit 70a96f1273089fe5725c0bb3e27250a1f7063ea3[m
+Merge: 943ddcd bd6d883
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jun 17 23:41:47 2020 +0800
+
+    Merge branch 'SelectedGNN' into SelectedGNN_LIN
+
+[33mcommit bd6d88399271a437a3529fd41606ce448adafcda[m
+Merge: c3327d7 d5f10c0
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jun 17 23:33:07 2020 +0800
+
+    Merge branch 'SelectedGNN' of https://github.com/QingbiaoLi/graph_mapf into SelectedGNN
+
+[33mcommit 943ddcdf2ebc23b15edec9371528d7e7c33dd35e[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jun 17 23:28:31 2020 +0800
+
+    multiprocessing torch v1.0
+
+[33mcommit 106e66f822ce07f02f3cb12c9edfdcd255638d0f[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Jun 17 20:40:20 2020 +0800
+
+    update multiprocessing checkpoint
+
+[33mcommit d5f10c0c5b6dceff874df89e44d0df6d27228356[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jun 17 03:08:56 2020 +0100
+
+    Update load CNN MLP weight from GNN into GAT and freezed
+
+[33mcommit b1557b6f688c958a638b59598642598b8a4bb729[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jun 17 02:18:26 2020 +0100
+
+    Update with load pretrain GNN into GAT, currently only CNN, compressMLP and action MLP
+
+[33mcommit 31ee8cd11b14715917f241d4f19dc0030d2606a5[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jun 16 00:41:18 2020 +0100
+
+    Update exp_name and tag (simulator)
+
+[33mcommit ceb06ba9a303f598b49524cb5fff54171d7e7323[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jun 16 00:40:27 2020 +0100
+
+    Update exp_name and tag
+
+[33mcommit 8c349891a95bb1d5f12614e120ad68fb2bbd756a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Jun 16 00:02:48 2020 +0100
+
+    Add experiment name and replace the tag for new simulator
+    BUt, there is a bug in GAT.
+
+[33mcommit 8cef7bc376e4f01fc0ab22060f4a30e9057436a1[m
+Merge: 79538c4 36c2b4f
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jun 15 18:09:02 2020 +0100
+
+    Merge pull request #4 from QingbiaoLi/SelectedGNN_LIN
+    
+    simulator bug fix
+
+[33mcommit 36c2b4f47d250b1d2cbc968c88fe848b21daa5c2[m
+Merge: 8440f4a 79538c4
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Mon Jun 15 18:06:53 2020 +0100
+
+    Merge branch 'SelectedGNN' into SelectedGNN_LIN
+
+[33mcommit 79538c4e7b40e62cf7a50c37bba16a2eb3c8e718[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Jun 15 17:30:21 2020 +0100
+
+    Update backup Batch file
+
+[33mcommit 8440f4a032c64d7e4510c681a4cfcfefd5821632[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Sun Jun 14 20:17:45 2020 +0800
+
+    simulator bug fix
+
+[33mcommit e9545231fe2fc3dc8062f397fc2d14b9a833f48a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jun 13 07:11:54 2020 +0100
+
+    Minor update on loading old simulator
+
+[33mcommit cc50ba3ee67a3e7de0b7ab4554bf2d0745dbb25a[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Jun 13 07:00:42 2020 +0100
+
+    Update with old simulator - noBatch
+
+[33mcommit c3327d70ae16fdd6e941021d365070ca3fee89eb[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 11 22:43:45 2020 +0100
+
+    Update attention concate
+
+[33mcommit ba774f1e989cde1eea12de81185a2757d972d9aa[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 11 22:31:24 2020 +0100
+
+    Update
+
+[33mcommit 4cd48d7f002c8bb70fb5a7be293b577ce5862042[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 11 22:26:01 2020 +0100
+
+    Update tag
+
+[33mcommit f6c2ee025ace9db2e66944cdc63e62b3d1b854e7[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 11 22:05:01 2020 +0100
+
+    Update with GAT GNN agent
+
+[33mcommit dafbc037fe0a769c3a63dd581c00b884fb31e861[m[33m ([m[1;31morigin/IROS[m[33m)[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Jun 10 14:46:31 2020 +0100
+
+    Save before add graph attention layer.
+
+[33mcommit 5b0e8c664d6480dda7dd602e552e259aa1948e41[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 4 11:35:59 2020 +0100
+
+    Update with new simulator
+
+[33mcommit 442d18486163bce447a815ce1c5d70d5f96d9352[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Jun 4 11:29:00 2020 +0100
+
+    Update with deadlock recorder
+
+[33mcommit 73b1869bd051e30dadad6c5e96efba30441bc658[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun May 31 23:17:30 2020 +0100
+
+    Update with some setup after IROS rebuttal
+
+[33mcommit c2be230c9d7c0b171faa41860615435d9ce0b139[m
+Merge: 7ffa6cc 68422b4
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri May 29 12:57:21 2020 +0100
+
+    Merge pull request #2 from QingbiaoLi/NewSimulator
+    
+    New simulator 1.0 beta
+
+[33mcommit 68422b48e25e0cf1c3286a75c3897879b2a55a48[m[33m ([m[1;31morigin/NewSimulator[m[33m)[m
+Merge: b3d80b1 7ffa6cc
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri May 29 10:59:53 2020 +0100
+
+    Merge branch 'master' into NewSimulator
+    
+    # Conflicts:
+    #       .gitignore
+
+[33mcommit 7ffa6cc4d554beaf8a562b361462b5135608612d[m
+Merge: e8e3de3 8ee93bd
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri May 29 02:14:39 2020 +0100
+
+    Merge pull request #1 from QingbiaoLi/MAgent
+    
+    [WIP] MAgent - New Simulator
+
+[33mcommit 5b4ed01b7cba9fe1bdb317c390d66a5ec340f0c6[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri May 29 02:13:45 2020 +0100
+
+    Update after rebuttal.
+
+[33mcommit f538afe018f82043150e9b534a6a0606a67932cd[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat May 16 06:46:44 2020 +0100
+
+    Adjust for rebuttal
+
+[33mcommit 4b58ee07f6c66dcdae0763ca792c3f44098b2e97[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu May 14 09:17:11 2020 +0100
+
+    Update generate crop dataset
+
+[33mcommit b3d80b15b8e6433932fa7e7999a5bb9355f14a83[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue May 12 19:39:39 2020 +0800
+
+    reverse changes to config files
+
+[33mcommit 222359ba1ac7a2635cca97cca996e46663f64747[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue May 12 19:32:11 2020 +0800
+
+    ver 1.0 beta completed
+
+[33mcommit cf8370ded438dc60f8f9de95bfaaee6bcc6f28b1[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue May 12 14:31:06 2020 +0800
+
+    working sample
+
+[33mcommit 9ea5c239f3f1bbace88d1ad19833eac30824b352[m
+Merge: 76783d3 06bcaa8
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue May 12 11:40:28 2020 +0800
+
+    Merge remote-tracking branch 'origin/IROS' into NewSimulator
+
+[33mcommit 76783d3543e09db3c5851b1080884355fcc5d251[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Tue May 12 11:38:16 2020 +0800
+
+    save before merge
+
+[33mcommit c0a33530a416efb2dfa42cf5ebc3326f6d1a9550[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon May 11 18:42:53 2020 +0100
+
+    Simple video generator version
+
+[33mcommit d7c64cd8e43be61547e57ea84437226946438062[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon May 11 18:35:42 2020 +0100
+
+    Save before add fixed map
+
+[33mcommit d33a3d483b164b5bda1f89f56363ad3d20387b56[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Thu May 7 12:46:40 2020 +0800
+
+    New Simulator First Draft
+
+[33mcommit cdaa6873ca694582810a974b906984ef409617e2[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed May 6 08:32:59 2020 +0100
+
+    Update localS test
+
+[33mcommit c1207c2bac68263bea15558256b04cfc187b14b4[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed May 6 08:18:50 2020 +0100
+
+    Update dynamic communication tricker
+
+[33mcommit 06bcaa81cd92dfbbee553cd2db96f1873777da44[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue May 5 00:17:41 2020 +0100
+
+    Update IROS rebuttal
+
+[33mcommit 7e9ded767050823a596f15489bae118afbea2725[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon May 4 18:42:44 2020 +0100
+
+    Add two GNN layer
+
+[33mcommit 916b4d2b94bec0a41cfbd7f403ef654ad87f3c41[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun May 3 19:04:09 2020 +0100
+
+    Update for iros rebuttal
+
+[33mcommit 258450e11e4f63b444b0e075cb3427940d4c82a0[m[33m ([m[1;31morigin/simplified_repo[m[33m)[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun May 3 18:14:40 2020 +0100
+
+    Update before retesting for IROS
+
+[33mcommit 5ad59296c1095ed1283bee60511094837a5c6f81[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Fri May 1 02:01:21 2020 +0100
+
+    Update guidance visualizer.
+
+[33mcommit 174764c957f42da4c790ad897d65e26ca95e279f[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Apr 30 08:45:14 2020 +0100
+
+    Update sampling method
+
+[33mcommit 8c76d0856edb67a2db8ee7d199b8b4ba1777da58[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Apr 30 00:42:51 2020 +0100
+
+    Update with different guidance and action sampling method
+
+[33mcommit ef96fbdea623be8c9e326cc7f7d3ca519b709b9c[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Apr 22 23:10:51 2020 +0100
+
+    Update with semi local guidance
+
+[33mcommit b14f838e669efa2d69e390ecd00cc64da43de947[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Apr 21 18:25:04 2020 +0100
+
+    Update with local guidance with static and dynamic obstacle
+
+[33mcommit 3035b5fb2ddc10b93e839aa112fd777d4e1d79ca[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Apr 15 23:17:50 2020 +0100
+
+    Update local guidance visualization
+
+[33mcommit 73fae0ad8a3d657c4391767328defa26a0a6968e[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Apr 14 10:50:57 2020 +0100
+
+    Update state transformer for local guidance
+
+[33mcommit 599aa1b32cbe33a2e2b92a78bb520679afb9e465[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Apr 13 14:49:35 2020 +0100
+
+    Update with local guidance
+
+[33mcommit ad56445555229af345c69bf96ef318e12846aa64[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Mon Apr 13 14:32:39 2020 +0100
+
+    Update with local guidance
+
+[33mcommit c9b12ecd3ab24a321880093709ede25716474266[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Apr 12 17:21:06 2020 +0100
+
+    Update before create local global guidance.
+
+[33mcommit 382c0f7e866415ca5a3cee2fc0d6048e0a854faf[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Thu Apr 2 10:10:30 2020 +0100
+
+    Update git repo
+
+[33mcommit 0702daf18462e60a1af770a01decbf16dbe1d09d[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Wed Apr 1 09:29:18 2020 +0100
+
+    update simplied
+
+[33mcommit 8ee93bde218be5f34d92b18e27a8c53cab76c550[m[33m ([m[1;31morigin/MAgent[m[33m)[m
+Author: LinWeizheDragon <wl356@cam.ac.uk>
+Date:   Wed Apr 1 15:29:40 2020 +0800
+
+    update magent demo
+
+[33mcommit 251220e98e87f10ddd99c73b69f3091f5ae79f05[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Tue Mar 31 22:37:18 2020 +0100
+
+    Update simplied repo
+
+[33mcommit 9cdcdb057384c1a2149adf4ffa59c3cb7d5b04b1[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Mar 29 12:44:43 2020 +0100
+
+    Update project into dcp and dcpoe
+
+[33mcommit 26e22908685811dcfdec20be1740138e02125f31[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sun Mar 29 12:08:19 2020 +0100
+
+    Update framework into simple version
+
+[33mcommit e8e3de3279f8aadcd8a0b270848cdbff9b7a1eb0[m
+Author: QingbiaoLi <cookielee92@gmail.com>
+Date:   Sat Mar 28 23:19:34 2020 +0000
+
+    Update the project before simplified it.
+
+[33mcommit 631a096624eb17949fa67f2b0cf671546ec4951c[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Fri Mar 13 13:48:03 2020 +0000
+
+    Graph Mapf full project
+
+[33mcommit 7a0f04532d59dea9308bd460a16502b907694edc[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Mar 10 15:46:20 2020 +0000
+
+    Full project of graph mapf before clean up
+
+[33mcommit 872a2457172ed3c14c0b76bfd02116ef331da79d[m
+Author: Qingbiao Li <ql295@cam.ac.uk>
+Date:   Tue Mar 10 15:38:52 2020 +0000
+
+    first commit

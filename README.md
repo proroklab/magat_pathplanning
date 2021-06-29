@@ -449,10 +449,11 @@ If you use this paper in an academic work, please cite:
   doi={10.1109/LRA.2021.3077863}
 }
 
-@article{li2019graph,
-  title={Graph Neural Networks for Decentralized Multi-Robot Path Planning},
+@inproceedings{li2019graph,
+  title={Graph neural networks for decentralized multi-robot path planning},
   author={Li, Qingbiao and Gama, Fernando and Ribeiro, Alejandro and Prorok, Amanda},
-  journal={arXiv preprint arXiv:1912.06095},
-  year={2019}
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={11785-11792},
+  year={2020},
 }
 ```

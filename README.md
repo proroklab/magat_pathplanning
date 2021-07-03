@@ -359,7 +359,7 @@ for batched run of tests using only one command. See example use for guidence.
 ```
 
 
-#### Test trained network, for exmaple DCP OE - K=3
+#### Test trained network, for example DCP OE - K=3
 User can [Download](https://drive.google.com/drive/folders/1ODov2r_fhO_gzTMeCm9-hZ8DeLMr7pzs?usp=sharing) the dataset and trained network, including dataset 
 * DataSource_DMap_FixedComR/EffectiveDensity/Training:
     * 20x20 map with 10 robots

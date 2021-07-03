@@ -3,7 +3,7 @@ This is the official repository for our paper published at IEEE Robotics and Aut
 
 
 
-If our work help your research, please kindly cite our paper:
+If our work helps your research, please kindly cite our paper:
 ```
 Q. Li, W. Lin, Z. Liu and A. Prorok, "Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning," in IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 5533-5540, July 2021, doi: 10.1109/LRA.2021.3077863.
 ```
@@ -20,9 +20,9 @@ Q. Li, F. Gama, A. Ribeiro and A. Prorok, "Graph Neural Networks for Decentraliz
     - [Framework Structure](#repo-structure)
     - [Code Structure](#code-structure)
     - [How to use this repo](#use-repos)
-    - [Guidence]
+    - [Guideance](#Guideance)
     -- [Requirements](#requirements)
-    -- [Step-Through Example]
+    -- [Step-Through Example](#Step-Through Example)
     - [License](#license)
     - [Citation](#Citation)
 
@@ -38,15 +38,15 @@ The repo has the following structure:
 |  └── decentralplannerlocal.py
 |  |        (DCP with GNNs) 
 |  └── decentralplannerlocal_OnlineExpert.py
-|  |        (DCP with GNNs and onlin expert mechanism) 
+|  |        (DCP with GNNs and online expert mechanism) 
 |  └── decentralplannerlocal_OnlineExpert_LoadPretrained.py
 |  |        (Load pre-trained models) 
-|  └── decentralplannerlocal_OnlineExpert_GAT.py (*used in paper)
-|  |        (DCP with GATs and onlin expert mechanism) 
+|  └── decentralplannerlocal_OnlineExpert_GAT.py (*used in the paper)
+|  |        (DCP with GATs and online expert mechanism) 
 |  └── decentralplannerlocal_OnlineExpert_GAT_LoadPretrained.py
 |  |        (Load pre-trained models) 
 |  └── decentralplannerlocal_OnlineExpert_GAT_returnGSO.py
-|           (save GSO when predicting. for use of visualisation) 
+|           (save GSO when predicting for the use of visualization) 
 |
 ├── configs (set up key parameters for training and inference stage)
 |  └── dcp_ECBS.json
@@ -63,10 +63,10 @@ The repo has the following structure:
 |  |       to allow faster training in GPU machines where 
 |  |       file loading speed is limited by clusters)
 |  └── statetransformer_Guidance.py
-|          (Transform the solution file (.yaml) into 3-channel tensor, where different guidance as option. )
+|          (Transform the solution file (.yaml) into a 3-channel tensor, where different guidance as an option. )
 |
 ├── graphs 
-|  └── models (pytorch models)
+|  └── models (PyTorch models)
 |  |  |
 |  |  └── decentralplanner.py (CNN->GNN->MLP)
 |  |  └── decentralplanner_bottleneck.py (+bottleneck)
@@ -84,7 +84,7 @@ The repo has the following structure:
 |  |
 |  └── losses
 |     └── cross_entropy.py
-|     └── label_smoothing.py (label smoothed version of cross entropy)
+|     └── label_smoothing.py (label smoothed version of cross-entropy)
 |     └── (some other useful functions)
 |
 ├── utils
@@ -95,13 +95,13 @@ The repo has the following structure:
 |  |  └── graphTools.py
 |  |
 |  └── multirobotsim_dcenlocal_onlineExpert_distributed_action.py 
-|  └──      (simulator for dencentral agents with online expert mechanism, where failure is saved.)
+|  └──      (simulator for decentral agents with online expert mechanism, where failure is saved.)
 |  └── visualize.py 
-|  └──      (visualize the predicted path with communcation link.)
+|  └──      (visualize the predicted path with communication link.)
 |  └── visualize_expertAlg.py
-|  └──      (visualize the ground truth path.)
+|  └──      (visualize the ground-truth path.)
 |  └── metrics.py 
-|  └──      (Record stastics during inference stage.)
+|  └──      (Record statistics during inference stage.)
 |  └── config.py 
 |  └── new_simulator.py 
 |  └──      (simulation environment, speedup version)
@@ -109,22 +109,22 @@ The repo has the following structure:
 ├── offlineExpert
 |  |
 |  └── CasesSolver.py
-|  └──       1, (# generate map) Randomly generate map with customized obstacle density and obstacle, 
+|  └──       1, (# generate map) Randomly generate a map with customized obstacle density and obstacle, 
 |  └──       2. (# case under a map)
-|  └──           At each specific map, generate random pairs of start and goal position for each agents.
+|  └──           At each specific map, generate random pairs of start and goal positions for each agent.
 |  └──       3. (for given case) Apply expert algorithm to compute solution.
 |  |
 |  └── DataGen_Transformer.py
-|  └──      (Transform the solution into specific data format that ready to be loaded by dataloader.
-|  └──          including: map, input tensor wiith each agents paths, GSO.)
+|  └──      (Transform the solution into a specific data format that ready to be loaded by the dataloader.
+|  └──          including: map, input tensor with each agents paths, GSO.)
 |
 ├── onlineExpert
 |  |
 |  └── ECBS_onlineExpert.py
-|  └──      (Apply expert algorithm to compute solution for failture cases recorded during training process.)
+|  └──      (Apply expert algorithm to compute solution for failure cases recorded during the training process.)
 |  |
 |  └── DataTransformer_local_onlineExpert.py
-|  └──      (Transform the solution into specific data format, and then merged into offline dataset.)
+|  └──      (Transform the solution into a specific data format, and then merged it into the offline dataset.)
 |
 ├── experiments
 |
@@ -136,14 +136,15 @@ The repo has the following structure:
 |  └── (Fig.5.) result_analysis_hist_impact_3K.py
 |
 ├──  main_test.py
-|  └──      (run multi scenario at the same scripts.)
+|  └──      (run multi-scenario at the same scripts.)
 |
 └──  main.py
+
 
 ```
 
 
-## Guidence
+## Guideance
 ### Requirements
 ```
 seaborn>=0.11.1
@@ -382,6 +383,13 @@ and trained network:
 * MAGAT F-32-P4 (timestamp: 1601918499)
 * MAGAT B-32-P4 (timestamp: 1601918505)
 
+Note: 
+* The GNN filtertap or communication hop (K) is set as 2, i.e. --nGraphFilterTaps 2
+* 128 and 32 are feature dimensions, i.e. --numInputFeatures 128 or --numInputFeatures 32
+* B stands for bottleneck Feature, i.e. --bottleneckFeature 32,
+* P stands for number of attention head, i.e. ----nAttentionHeads 4. 
+
+Please find the ./scripts/train_DMap.sh and ./scripts/test_DMap.sh for training and testing above setup.
 
 #### Training
 Take '**MAGAT F-128 (1602191363)**' as an example.
@@ -390,7 +398,7 @@ We need to change the 'data_root' and 'save_data' in ./configs/dcpGAT_OE_Random.
 ```
 python main.py configs/dcpGAT_OE_Random.json --mode train --map_density 1 --map_w 20 --nGraphFilterTaps 2  --num_agents 10  --trained_num_agents 10  --commR 7  --load_num_validset 1000 --update_valid_set 1000 --update_valid_set_epoch 100 --threshold_SuccessRate 90 --GSO_mode dist_GSO --default_actionSelect --guidance Project_G --CNN_mode ResNetLarge_withMLP  --batch_numAgent --test_num_processes 2  --nAttentionHeads 1 --attentionMode KeyQuery  --tb_ExpName DotProduct_GAT_Resnet_3Block_MLP128_distGSO_baseline_128_Validset_1K_RandomMap
 ```
-More setting can be found in scrips.
+More settings can be found in scripts.
 
 #### Test
 Take '**MAGAT F-128 (1602191363)**' as an example.
@@ -420,8 +428,7 @@ or fill the setup and run
  python ./utils/gen_movie_loop_guidance_actionSampling.py 
 ```
 
-If the user want to visualize the change of communication width, make sure run the 'main.py' with 'configs/dcpGAT_OE_Random_returnGSO.json' so that the attention matrix will be saved.
-
+If the user wants to visualize the change of communication width, make sure to run the 'main.py' with 'configs/dcpGAT_OE_Random_returnGSO.json' so that the attention matrix will be saved.
 
 ## Seek Help?
 You can either contact our primary authors at Qingbiao Li (ql295@cam.ac.uk) and Weizhe Lin (wl356@cam.ac.uk), or create issues in this repository to raise any problems encountered.
@@ -429,14 +436,14 @@ You can either contact our primary authors at Qingbiao Li (ql295@cam.ac.uk) and 
 As the main purpose of the code release is to help academic research, our authors will prioritize queries from emails of education/research institutions. So, please send emails with your academic email address if possible, thanks!
 
 ## License
-The code was constructed from a **Scalable template**  by [Hager Rady](https://github.com/hagerrady13/) and [Mo'men AbdelRazek](https://github.com/moemen95)
+The code was constructed from a **Scalable template**  by [Hager Rady](https://github.com/hagerrady13/) and [Mo'men AbdelRazek](https://github.com/moemen95).
 
-The graph neural network module of this work is based on the [GNN library](https://github.com/alelab-upenn/graph-neural-network) provided by Alelab of University of Pennsylvania.
+The graph neural network module of this work is an extension from [gnn_pathplanning](https://github.com/proroklab/gnn_pathplanning). We proposed MAGAT based on the [GNN library](https://github.com/alelab-upenn/graph-neural-network) provided by Alelab of the University of Pennsylvania.
 
-This project is licensed under MIT License - see the LICENSE file for details
+This project is licensed under MIT License - see the LICENSE file for details.
 
 ## Citation
-If you use this paper in an academic work, please cite:
+If you use this paper in academic work, please cite:
 ```
 @ARTICLE{li2021magat,
   author={Li, Qingbiao and Lin, Weizhe and Liu, Zhe and Prorok, Amanda},

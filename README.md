@@ -431,7 +431,7 @@ or fill the setup and run
 If the user wants to visualize the change of communication width, make sure to run the 'main.py' with 'configs/dcpGAT_OE_Random_returnGSO.json' so that the attention matrix will be saved.
 
 ## Seek Help?
-You can either contact our primary authors at Qingbiao Li (ql295@cam.ac.uk) and Weizhe Lin (wl356@cam.ac.uk), or create issues in this repository to raise any problems encountered.
+You can either contact our primary authors at Qingbiao Li (ql295@cam.ac.uk) and Weizhe Lin (wl356@cam.ac.uk), or create issues in this repository to raise any problems encountered. You can also join our [slack workspace](https://join.slack.com/t/gnnpathplanni-kqb9868/shared_invite/zt-tbsayfe9-DkOJsgWXLCrUgxHbO4usqQ) for discussion. 
 
 As the main purpose of the code release is to help academic research, our authors will prioritize queries from emails of education/research institutions. So, please send emails with your academic email address if possible, thanks!
 

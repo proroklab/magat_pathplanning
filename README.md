@@ -161,6 +161,11 @@ hashids==1.3.1
 torchsummaryX==1.3.0
 ```
 ### Step-Through Example
+### Downloaded Dataset
+```
+bash scripts/downloaded_dataset.sh  
+```
+
 
 ### Dataset
 We use the Conflict-based Search algorihm from [this repo](https://github.com/whoenig/libMultiRobotPlanning) as the expert algorihm to generate the offline dataset.
@@ -181,6 +186,7 @@ python CasesSolver_cropfromMap_fixedLength.py --loadmap_TYPE random --random_map
 python DataGen_Transformer_split_IDMap.py  --num_agents 10 --map_w 20 --map_density 0.1   --div_train 21000 --div_valid 4500 --div_test 4500 --div_train_IDMap 0 --div_test_IDMap 427 --div_valid_IDMap 800 --solCases_dir [Path_to_Folder_Solution]   --dir_SaveData [Path_to_Folder_Trainset]  --guidance Project_G
 ```
 
+We also provide example of our dataset at the GoogleDrive 'Dataset_Solution_CoRL.zip'. 
 
 
 ### Training
@@ -398,7 +404,12 @@ We need to change the 'data_root' and 'save_data' in ./configs/dcpGAT_OE_Random.
 ```
 python main.py configs/dcpGAT_OE_Random.json --mode train --map_density 1 --map_w 20 --nGraphFilterTaps 2  --num_agents 10  --trained_num_agents 10  --commR 7  --load_num_validset 1000 --update_valid_set 1000 --update_valid_set_epoch 100 --threshold_SuccessRate 90 --GSO_mode dist_GSO --default_actionSelect --guidance Project_G --CNN_mode ResNetLarge_withMLP  --batch_numAgent --test_num_processes 2  --nAttentionHeads 1 --attentionMode KeyQuery  --tb_ExpName DotProduct_GAT_Resnet_3Block_MLP128_distGSO_baseline_128_Validset_1K_RandomMap
 ```
-More settings can be found in scripts.
+More settings can be found in scripts. 
+Note in 'config/*.json' file:
+*  data_root is set as  "./Data/DataSource_DMap_FixedComR/EffectiveDensity/Training" as an example where the dataset stored, and it can be customized based on user's need.
+* "save_data is set as  "./Data/" as an example where the experiment (trained_model) and Results stored, and it can be customized based on user's need.
+*  "save_tb_data": "./Data/Tensorboard" as an example where the tensorboard stored, and it can be customized based on user's need.
+
 
 #### Test
 Take '**MAGAT F-128 (1602191363)**' as an example.

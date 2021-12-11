@@ -3,9 +3,9 @@
   "agent": "DecentralPlannerAgentLocal",
   "data_loader": "DecentralPlannerDataLoader",
 
-  "data_root": "../MultiAgentDataset/DataSource_DMap_FixedComR/FixedCommR/",
-  "save_data": "../MultiAgentDataset/",
-  "save_tb_data": "../MultiAgentDataset/Tensorboard/",
+  "data_root": "./Data/DataSource_DMap_FixedComR/EffectiveDensity/Training",
+  "save_data": "./Data/",
+  "save_tb_data": "./Data/Tensorboard",
 
   "map_w": 20,
   "map_h": 20,

@@ -1,0 +1,59 @@
+{
+  "exp_net": "dcpOEGAT",
+  "agent": "DecentralPlannerAgentLocalWithOnlineExpertGAT",
+  "data_loader": "DecentralPlannerDataLoader",
+
+  "data_root": "/home/qingbiao/PycharmProjects/magat_pathplanning/Data/DataSource_DMap_FixedComR/Scenario_2",
+  "save_data": "./Data/",
+  "save_tb_data": "./Data/Tensorboard",
+
+
+  "map_w": 8,
+  "map_h": 8,
+  "map_density": 1,
+  "num_agents": 10,
+  "id_map": 0,
+
+  "trained_map_w": 20,
+  "trained_map_h": 20,
+  "trained_map_density": 1,
+  "trained_num_agents": 10,
+
+  "nGraphFilterTaps": 3,
+  "nAttentionHeads": 1,
+  "AttentionConcat": true,
+  "hiddenFeatures": 0,
+
+  "num_test_trainingSet": 500,
+  "num_validset": 200,
+  "num_testset": 4500,
+
+  "con_train": false,
+  "test_general": false,
+  "train_TL": false,
+
+  "cuda": false,
+  "gpu_device": 0,
+
+  "checkpoint_file": "checkpoint.pth.tar",
+  "seed": 1337,
+
+  "learning_rate": 0.001,
+  "weight_decay": 0.00001,
+  "momentum": 0.5,
+  "penaltyCollision": 0.05,
+  "max_epoch": 300,
+  "Start_onlineExpert": 0,
+
+  "log_interval": 500,
+  "log_loss_interval": 100,
+  "validate_every": 4,
+
+  "data_loader_workers": 4,
+  "pin_memory": true,
+  "async_loading": true,
+
+  "batch_size": 64,
+  "valid_batch_size": 1,
+  "test_batch_size": 1
+}
